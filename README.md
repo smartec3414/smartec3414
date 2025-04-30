@@ -2,7 +2,7 @@
 As a senior full-stack developer with over six years of extensive experience in web development, I excel at ensuring project perfection. I effectively apply both MongoDB and MySQL databases within modern frameworks such as Next.js and Nuxt.js to create robust solutions. <img src="https://cdni.iconscout.com/illustration/premium/thumb/laptop-5425029-4558286.png?f=webp" alt="ilustração de um computador" width="300px" align="right">
 
 
-
+ 
 
 ## Skills
 <ins>**Languages**</ins>\
