@@ -20,6 +20,8 @@ UI/UXの最適化によるユーザーエンゲージメント向上 🎯
 すべてのプロジェクトにおいて、ユーザー満足度と人気の最大化📈を目指しています。
 
 🛠️ 技術スタック（一部）
+
+
 JavaScript / TypeScript / SCSS
 
 Wordpress / Laravel / shopify / Wix / Margento
