@@ -33,10 +33,8 @@ MySQL / PostgreSQL / MongoDB
 AWS / Docker / CI/CD
 
 📫 ご興味を持っていただけましたら、お気軽にご連絡ください！
-素晴らしいプロジェクトで一緒に成長できることを楽しみにしています 😄<img src="https://cdni.iconscout.com/illustration/premium/thumb/laptop-5425029-4558286.png?f=webp" alt="ilustração de um computador" width="300px" align="right">
-
-
- 
+素晴らしいプロジェクトで一緒に成長できることを楽しみにしています 😄
+<img src="https://cdni.iconscout.com/illustration/premium/thumb/laptop-5425029-4558286.png?f=webp" alt="computer" width="300px" align="center">
 
 ## スキル
 <ins>**言語**</ins>\
