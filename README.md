@@ -32,6 +32,8 @@ Node.js / Express / NestJS
 
 Python / Django / FastAPI
 
+Googe Spreadsheet / App Script / Looker Studio / Power Automate
+
 Flutter / SwiftUI / Kotlin
 
 MySQL / PostgreSQL / MongoDB
