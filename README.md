@@ -1,19 +1,22 @@
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
 
-# 👋 はじめまして！
+# 👋 Hello, nice to meet you!
 
-# 私は Web・モバイル開発のシニアエンジニア です。
-7年以上にわたる実務経験を活かし、日々高品質なプロダクト開発に取り組んでいます。
+# I am a Senior Blockchain & AI Developer
+With over 6 years of professional experience, I specialize in building secure, scalable, and user-friendly blockchain and web applications.
 
-💡 得意分野
-フロントエンド／バックエンド開発の最適化
+💡 得意分野  
 
-SEO改善 ✨
+Smart contract and DApp development on Ethereum, Solana, and EVM-compatible chains
 
-サービススピードとデータ処理性能の向上 🚀
+DeFi protocol design, token economics, and NFT ecosystems
 
-UI/UXの最適化によるユーザーエンゲージメント向上 🎯
+High-performance trading automation (snipers, bots, liquidity tools)
+
+Full-stack product development: frontend, backend, and blockchain integration
+
+Optimized UI/UX to maximize user engagement and adoption
 
 🎯 モットー
 常に「速く・美しく・使いやすく」。
