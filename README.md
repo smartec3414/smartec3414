@@ -31,37 +31,17 @@ Mobile: Flutter/Swift/Kotlin + WalletConnect
 I’m looking forward to growing together on an amazing project 😄
 
 
-## スキル
-<ins>**言語**</ins>\
+
+<ins></ins>\
 ![](https://skillicons.dev/icons?i=html,css,scss,js,ts,cs,java,py,ocaml,ruby)
 
-<ins>**ツール、フレームワーク、エンジン**</ins>\
+<ins></ins>\
 ![](https://skillicons.dev/icons?i=angular,tailwind,jquery,dotnet,electron,firebase,discordjs,electron,nodejs,npm,p5js,unity,gamemakerstudio,git)
 
-## 統計データ
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edlessz&layout=compact&hide=html" alt="edlessz" />
 </div>
 
-
-<div>
-  <a href="https://nextjs.org/docs">
-    <img src="https://skillicons.dev/icons?i=nextjs"/>
-  </a>
-  <a href="https://nuxt.com/docs/getting-started/introduction">
-    <img src="https://skillicons.dev/icons?i=nuxt"/>
-  </a>
-  <a href="https://graphql.org/learn/">
-    <img src="https://skillicons.dev/icons?i=graphql"/>
-  </a>
-  <a href="https://www.gatsbyjs.com/docs/">
-    <img src="https://skillicons.dev/icons?i=gatsbyjs"/>
-  </a>
-  <a href="https://sass-lang.com">
-    <img src="https://skillicons.dev/icons?i=sass"/>
-  </a>
-</div>
-  
-##
 
 </div>     
 
