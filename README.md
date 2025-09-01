@@ -6,7 +6,7 @@
 # I am a Senior Blockchain & AI Developer
 With over 6 years of professional experience, I specialize in building secure, scalable, and user-friendly blockchain and web applications.
 
-💡 得意分野  
+💡 Area of expertise  
 
 Smart contract and DApp development on Ethereum, Solana, and EVM-compatible chains
 
@@ -18,33 +18,30 @@ Full-stack product development: frontend, backend, and blockchain integration
 
 Optimized UI/UX to maximize user engagement and adoption
 
-🎯 モットー
-常に「速く・美しく・使いやすく」。
-すべてのプロジェクトにおいて、ユーザー満足度と人気の最大化📈を目指しています。
+🎯 Motto
+Always "Fast, Beautiful, and User-Friendly."
+In all projects, we aim to maximize user satisfaction and popularity 📈.
 
-🛠️ 技術スタック（一部）
+🛠️ Technology Stack (Partial)
 
 
-JavaScript / TypeScript / SCSS
+Frontend: React/Next.js + wagmi + ethers.js
 
-Wordpress / Laravel / shopify / Wix / Margento
+Smart Contracts: Solidity (EVM), Rust (if Solana)
 
-Vue.js / Angular / React / Next.js / Nuxt.js <img src="https://cdni.iconscout.com/illustration/premium/thumb/laptop-5425029-4558286.png?f=webp" alt="computer" width="300px" align="right">
+Backend: Node.js/Express + The Graph + Moralis/Alchemy SDK   <img src="https://cdni.iconscout.com/illustration/premium/thumb/laptop-5425029-4558286.png?f=webp" alt="computer" width="300px" align="right">
 
-Node.js / Express / NestJS
+Storage: IPFS/Filecoin/Arweave (+ Postgres if needed)
 
-Python / Django / FastAPI
+Automation: Chainlink Keepers / Gelato
 
-Googe Spreadsheet / App Script / Looker Studio / Power Automate
+Infra: Infura/Alchemy/QuickNode + Hardhat/Foundry + Docker/AWS
 
-Flutter / SwiftUI / Kotlin
+Mobile: Flutter/Swift/Kotlin + WalletConnect
 
-MySQL / PostgreSQL / MongoDB
 
-AWS / Docker / CI/CD
-
-📫 ご興味を持っていただけましたら、お気軽にご連絡ください！
-素晴らしいプロジェクトで一緒に成長できることを楽しみにしています 😄
+📫 If you’re interested, please feel free to reach out!
+I’m looking forward to growing together on an amazing project 😄
 
 
 ## スキル
