@@ -6,19 +6,6 @@
 # I am a Senior Blockchain & AI Developer
 With over 6 years of professional experience, I specialize in building secure, scalable, and user-friendly blockchain and web applications.
 
-💡 Area of expertise  
-
-Smart contract and DApp development on Ethereum, Solana, and EVM-compatible chains
-
-DeFi protocol design, token economics, and NFT ecosystems
-
-High-performance trading automation (snipers, bots, liquidity tools)
-
-Full-stack product development: frontend, backend, and blockchain integration
-
-Optimized UI/UX to maximize user engagement and adoption
-
-🎯 Motto
 Always "Fast, Beautiful, and User-Friendly."
 In all projects, we aim to maximize user satisfaction and popularity 📈.
 
