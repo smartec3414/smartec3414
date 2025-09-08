@@ -3,7 +3,7 @@
 
 # 👋 Hello, nice to meet you!
 
-# I am a Senior Blockchain & AI Developer
+# I am a Senior Full stack & AI Developer
 With over 6 years of professional experience, I specialize in building secure, scalable, and user-friendly blockchain and web applications.
 
 Always "Fast, Beautiful, and User-Friendly."
