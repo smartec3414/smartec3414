@@ -11,19 +11,18 @@
 
 🛠️ 技術スタック（一部）
 
-Frontend: React/Next.js + wagmi + ethers.js
+Frontend: React Next.js Vue.js Nuxt.js Tailwind CSS MUI Vuetify Bootstrap
 
 Smart Contracts: Solidity (EVM), Rust (if Solana)
 
-Backend: Node.js/Express + The Graph + Moralis/Alchemy SDK   <img src="https://cdni.iconscout.com/illustration/premium/thumb/laptop-5425029-4558286.png?f=webp" alt="computer" width="300px" align="right">
+Backend: Node.js Express NestJS Django FastAPI Laravel   <img src="https://cdni.iconscout.com/illustration/premium/thumb/laptop-5425029-4558286.png?f=webp" alt="computer" width="300px" align="right">
 
-Storage: IPFS/Filecoin/Arweave (+ Postgres if needed)
+Database: PostgreSQL MySQL MongoDB Redis
 
-Automation: Chainlink Keepers / Gelato
+AI & Data: LLM Integration RAG AI Agents Chatbot Development Vector Search Web Scraping Data Analysis Batch Processing
 
 Infra: Infura/Alchemy/QuickNode + Hardhat/Foundry + Docker/AWS
 
-Mobile: Flutter/Swift/Kotlin + WalletConnect
 
 📫 ご興味をお持ちいただけましたら、ぜひお気軽にご連絡ください！
 素晴らしいプロジェクトを通じて、一緒に成長できることを楽しみにしております 😄
